@@ -32,7 +32,7 @@ export async function getServerSideProps() {
           <div className="">
             <h2 class="text-center my-8 text-3xl">{item.reason}</h2>
             <div className="flex flex-col ">
-            <div className="self-center w-auto h-80 border-2 p-3 border-indigo-200">{item.picture}</div>
+            <div className="self-center text-5xl  p-3 border-2 border-indigo-200">{item.picture}</div>
             </div>
           </div>
             )
