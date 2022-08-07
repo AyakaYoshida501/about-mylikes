@@ -20,7 +20,7 @@ export default function Hom({posts}) {
                 </div >
               ))}
               </div>
-              <p className="text-center mt-7 text-4xl">🍨　🍰　🍅　🍞　🥝　🐔　🥢　🍣　🍲</p>
+              <p className="text-center mt-7 text-4xl">🍨　🍰　🍅　🍞　🥝　🥩　🥢　🍣　🍲</p>
               <Link href="/"><a><p className="text-center mt-7 underline">１つ前に戻る</p></a></Link>
             </main>
         </div>
